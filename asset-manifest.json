@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chipmunk46/portfolio/static/css/main.fe1ff7b8.css",
+    "main.js": "/chipmunk46/portfolio/static/js/main.c1460557.js",
+    "static/media/newforest.jpg": "/chipmunk46/portfolio/static/media/newforest.f4cf97010c40f3122a09.jpg",
+    "index.html": "/chipmunk46/portfolio/index.html",
+    "main.fe1ff7b8.css.map": "/chipmunk46/portfolio/static/css/main.fe1ff7b8.css.map",
+    "main.c1460557.js.map": "/chipmunk46/portfolio/static/js/main.c1460557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe1ff7b8.css",
+    "static/js/main.c1460557.js"
+  ]
+}
