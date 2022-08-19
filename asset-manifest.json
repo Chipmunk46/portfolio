@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/chipmunk46/portfolio/static/css/main.fe1ff7b8.css",
-    "main.js": "/chipmunk46/portfolio/static/js/main.4c2fe7cc.js",
-    "static/media/newforest.jpg": "/chipmunk46/portfolio/static/media/newforest.f4cf97010c40f3122a09.jpg",
-    "index.html": "/chipmunk46/portfolio/index.html",
-    "main.fe1ff7b8.css.map": "/chipmunk46/portfolio/static/css/main.fe1ff7b8.css.map",
-    "main.4c2fe7cc.js.map": "/chipmunk46/portfolio/static/js/main.4c2fe7cc.js.map"
+    "main.css": "/Chipmunk46/portfolio/static/css/main.c23893b9.css",
+    "main.js": "/Chipmunk46/portfolio/static/js/main.25f099c3.js",
+    "static/media/newforest.jpg": "/Chipmunk46/portfolio/static/media/newforest.f4cf97010c40f3122a09.jpg",
+    "index.html": "/Chipmunk46/portfolio/index.html",
+    "main.c23893b9.css.map": "/Chipmunk46/portfolio/static/css/main.c23893b9.css.map",
+    "main.25f099c3.js.map": "/Chipmunk46/portfolio/static/js/main.25f099c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe1ff7b8.css",
-    "static/js/main.4c2fe7cc.js"
+    "static/css/main.c23893b9.css",
+    "static/js/main.25f099c3.js"
   ]
 }
